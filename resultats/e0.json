@@ -1,0 +1,44 @@
+{
+ "visibilite": {
+  "g1": 1.0,
+  "g2": 1.0,
+  "g4": 1.0,
+  "g_retenu": 1
+ },
+ "expert": {
+  "L2": {
+   "succes": 1.0,
+   "echecs": []
+  },
+  "L3": {
+   "succes": 1.0,
+   "echecs": []
+  },
+  "L4": {
+   "succes": 1.0,
+   "echecs": []
+  }
+ },
+ "fuites": {
+  "image": {
+   "precision": 0.39,
+   "p_valeur": 4.903515775441921e-10,
+   "absence_de_fuite": false
+  },
+  "image_debut_execution": {
+   "precision": 0.225,
+   "p_valeur": 0.8882724406729505,
+   "absence_de_fuite": true
+  },
+  "etat": {
+   "precision": 0.2475,
+   "p_valeur": 0.5650581459795327,
+   "absence_de_fuite": true
+  },
+  "controle_positif_presentation": {
+   "precision": 1.0,
+   "p_valeur": 1.499696813895631e-241,
+   "absence_de_fuite": false
+  }
+ }
+}

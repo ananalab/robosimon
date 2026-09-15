@@ -1,0 +1,70 @@
+{
+ "ACT_B0": {
+  "perte_finale": 0.08628948777914047,
+  "detail": {
+   "l1": 0.05076252669095993,
+   "kld": 0.0035526962019503117
+  },
+  "succes_train": 0.0,
+  "ecart_hist_presentation": 0.0
+ },
+ "ACT_B1": {
+  "perte_finale": 0.06510892510414124,
+  "detail": {
+   "l1": 0.015327385626733303,
+   "kld": 0.004978153854608536
+  },
+  "succes_train": 1.0,
+  "ecart_hist_presentation": 0.29378798604011536
+ },
+ "ACT_M1": {
+  "perte_finale": 0.057584214955568314,
+  "detail": {
+   "l1": 0.018343795090913773,
+   "kld": 0.003924041986465454
+  },
+  "succes_train": 1.0,
+  "ecart_hist_presentation": 0.32514840364456177
+ },
+ "ACT_M1p": {
+  "perte_finale": 0.056578129529953,
+  "detail": {
+   "l1": 0.017641881480813026,
+   "kld": 0.0038936245255172253
+  },
+  "succes_train": 1.0,
+  "ecart_hist_presentation": 0.18969881534576416
+ },
+ "DP_B0": {
+  "perte_finale": 0.0030764713883399963,
+  "detail": {
+   "mse": 0.0030764713883399963
+  },
+  "succes_train": 0.0,
+  "ecart_hist_presentation": 0.0
+ },
+ "DP_B1": {
+  "perte_finale": 0.0028773201629519463,
+  "detail": {
+   "mse": 0.0028773201629519463
+  },
+  "succes_train": 1.0,
+  "ecart_hist_presentation": 0.12766288220882416
+ },
+ "DP_M1": {
+  "perte_finale": 0.003256518393754959,
+  "detail": {
+   "mse": 0.003256518393754959
+  },
+  "succes_train": 1.0,
+  "ecart_hist_presentation": 0.1222926676273346
+ },
+ "DP_M1p": {
+  "perte_finale": 0.0027791678439825773,
+  "detail": {
+   "mse": 0.0027791678439825773
+  },
+  "succes_train": 1.0,
+  "ecart_hist_presentation": 0.08180901408195496
+ }
+}
